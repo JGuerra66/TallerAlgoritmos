@@ -25,6 +25,33 @@ Se aplican tres estrategias para resolver el coloreo del grafo:
 - 🧱 **Welsh-Powell** (`largest_first`)
 - 🔍 **DSATUR** (`saturation_largest_first`)
 
+## 🧠 Observaciones prácticas
+**Greedy**:
+
+    Es muy rápido, pero no garantiza buenos resultados.
+
+    El número de colores puede variar según el orden de los nodos.
+
+    Sirve como referencia base o para pruebas rápidas.
+
+**Welsh-Powell**:
+
+    Usa una estrategia más inteligente: empieza por los nodos más conectados.
+
+    Mejora los resultados del greedy sin perder mucha eficiencia.
+
+    Es útil cuando tenés muchas materias con alta interconexión.
+
+**DSATUR**:
+
+    La más efectiva en términos de minimizar colores.
+    
+    Elige en cada paso el nodo más restringido (más saturado).
+
+    Suele encontrar la mejor o casi mejor solución, aunque es más costosa.
+
+    Ideal cuando la calidad del horario es crítica.
+
 ## 🧪 Ejecución
 
 ### 1. Instalar dependencias
