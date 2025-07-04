@@ -1,0 +1,173 @@
+estudiante,materia
+Estudiante_1,Estructuras de Datos
+Estudiante_1,Sistemas Operativos
+Estudiante_1,Algebra y Geometria Analitica
+Estudiante_2,Lenguajes de Programacion
+Estudiante_2,Estructuras de Datos
+Estudiante_2,Automatas y Lenguajes Formales
+Estudiante_3,Organizacion de Empresas
+Estudiante_3,Etica y Deontologia Profesional
+Estudiante_3,Arquitectura de Computadoras
+Estudiante_3,Analisis Matematico II
+Estudiante_3,Bases de Datos
+Estudiante_4,Etica y Deontologia Profesional
+Estudiante_4,Probabilidad y Estadistica
+Estudiante_4,Estructuras de Datos
+Estudiante_5,Analisis Matematico I
+Estudiante_5,Estructuras de Datos
+Estudiante_5,Organizacion de Empresas
+Estudiante_5,Bases de Datos
+Estudiante_5,Algebra y Geometria Analitica
+Estudiante_5,Automatas y Lenguajes Formales
+Estudiante_6,Etica y Deontologia Profesional
+Estudiante_6,Organizacion de Computadoras
+Estudiante_6,Analisis Matematico II
+Estudiante_6,Algebra y Geometria Analitica
+Estudiante_6,Probabilidad y Estadistica
+Estudiante_6,Ingles Tecnico
+Estudiante_7,Organizacion de Empresas
+Estudiante_7,Analisis Matematico I
+Estudiante_7,Etica y Deontologia Profesional
+Estudiante_7,Algebra y Geometria Analitica
+Estudiante_7,Bases de Datos
+Estudiante_8,Analisis Matematico I
+Estudiante_8,Automatas y Lenguajes Formales
+Estudiante_8,Etica y Deontologia Profesional
+Estudiante_8,Organizacion de Computadoras
+Estudiante_8,Algebra y Geometria Analitica
+Estudiante_8,Bases de Datos
+Estudiante_9,Programacion Orientada a Objetos
+Estudiante_9,Analisis Matematico II
+Estudiante_9,Lenguajes de Programacion
+Estudiante_10,Bases de Datos
+Estudiante_10,Teoria de Sistemas
+Estudiante_10,Sistemas Operativos
+Estudiante_10,Ingles Tecnico
+Estudiante_11,Ingles Tecnico
+Estudiante_11,Algebra y Geometria Analitica
+Estudiante_11,Etica y Deontologia Profesional
+Estudiante_11,Automatas y Lenguajes Formales
+Estudiante_12,Teoria de Sistemas
+Estudiante_12,Lenguajes de Programacion
+Estudiante_12,Algoritmos y Programacion
+Estudiante_12,Programacion Orientada a Objetos
+Estudiante_12,Automatas y Lenguajes Formales
+Estudiante_12,Analisis Matematico II
+Estudiante_13,Programacion Orientada a Objetos
+Estudiante_13,Organizacion de Empresas
+Estudiante_13,Sistemas Operativos
+Estudiante_13,Arquitectura de Computadoras
+Estudiante_13,Etica y Deontologia Profesional
+Estudiante_14,Analisis Matematico I
+Estudiante_14,Analisis Matematico II
+Estudiante_14,Bases de Datos
+Estudiante_14,Organizacion de Empresas
+Estudiante_15,Bases de Datos
+Estudiante_15,Organizacion de Empresas
+Estudiante_15,Estructuras de Datos
+Estudiante_15,Lenguajes de Programacion
+Estudiante_15,Algebra y Geometria Analitica
+Estudiante_16,Etica y Deontologia Profesional
+Estudiante_16,Bases de Datos
+Estudiante_16,Sistemas Operativos
+Estudiante_16,Estructuras de Datos
+Estudiante_16,Organizacion de Empresas
+Estudiante_16,Analisis Matematico II
+Estudiante_17,Algoritmos y Programacion
+Estudiante_17,Automatas y Lenguajes Formales
+Estudiante_17,Sistemas Operativos
+Estudiante_17,Programacion Orientada a Objetos
+Estudiante_17,Organizacion de Empresas
+Estudiante_18,Analisis Matematico I
+Estudiante_18,Algebra y Geometria Analitica
+Estudiante_18,Teoria de Sistemas
+Estudiante_18,Probabilidad y Estadistica
+Estudiante_19,Automatas y Lenguajes Formales
+Estudiante_19,Estructuras de Datos
+Estudiante_19,Teoria de Sistemas
+Estudiante_19,Analisis Matematico I
+Estudiante_19,Organizacion de Empresas
+Estudiante_20,Algebra y Geometria Analitica
+Estudiante_20,Programacion Orientada a Objetos
+Estudiante_20,Arquitectura de Computadoras
+Estudiante_20,Organizacion de Computadoras
+Estudiante_21,Estructuras de Datos
+Estudiante_21,Etica y Deontologia Profesional
+Estudiante_21,Automatas y Lenguajes Formales
+Estudiante_21,Ingles Tecnico
+Estudiante_22,Algoritmos y Programacion
+Estudiante_22,Sistemas Operativos
+Estudiante_22,Teoria de Sistemas
+Estudiante_22,Ingles Tecnico
+Estudiante_22,Analisis Matematico I
+Estudiante_22,Analisis Matematico II
+Estudiante_23,Lenguajes de Programacion
+Estudiante_23,Programacion Orientada a Objetos
+Estudiante_23,Automatas y Lenguajes Formales
+Estudiante_23,Estructuras de Datos
+Estudiante_23,Bases de Datos
+Estudiante_24,Automatas y Lenguajes Formales
+Estudiante_24,Algebra y Geometria Analitica
+Estudiante_24,Teoria de Sistemas
+Estudiante_25,Ingles Tecnico
+Estudiante_25,Analisis Matematico I
+Estudiante_25,Etica y Deontologia Profesional
+Estudiante_26,Bases de Datos
+Estudiante_26,Lenguajes de Programacion
+Estudiante_26,Etica y Deontologia Profesional
+Estudiante_26,Sistemas Operativos
+Estudiante_27,Organizacion de Computadoras
+Estudiante_27,Etica y Deontologia Profesional
+Estudiante_27,Arquitectura de Computadoras
+Estudiante_27,Algoritmos y Programacion
+Estudiante_28,Teoria de Sistemas
+Estudiante_28,Algebra y Geometria Analitica
+Estudiante_28,Sistemas Operativos
+Estudiante_29,Analisis Matematico I
+Estudiante_29,Lenguajes de Programacion
+Estudiante_29,Probabilidad y Estadistica
+Estudiante_29,Estructuras de Datos
+Estudiante_29,Programacion Orientada a Objetos
+Estudiante_30,Ingles Tecnico
+Estudiante_30,Lenguajes de Programacion
+Estudiante_30,Analisis Matematico I
+Estudiante_31,Arquitectura de Computadoras
+Estudiante_31,Algebra y Geometria Analitica
+Estudiante_31,Estructuras de Datos
+Estudiante_31,Teoria de Sistemas
+Estudiante_32,Organizacion de Empresas
+Estudiante_32,Organizacion de Computadoras
+Estudiante_32,Analisis Matematico II
+Estudiante_32,Analisis Matematico I
+Estudiante_32,Programacion Orientada a Objetos
+Estudiante_32,Etica y Deontologia Profesional
+Estudiante_33,Organizacion de Empresas
+Estudiante_33,Lenguajes de Programacion
+Estudiante_33,Probabilidad y Estadistica
+Estudiante_33,Sistemas Operativos
+Estudiante_33,Analisis Matematico I
+Estudiante_33,Ingles Tecnico
+Estudiante_34,Algoritmos y Programacion
+Estudiante_34,Lenguajes de Programacion
+Estudiante_34,Organizacion de Computadoras
+Estudiante_35,Organizacion de Empresas
+Estudiante_35,Arquitectura de Computadoras
+Estudiante_35,Automatas y Lenguajes Formales
+Estudiante_35,Organizacion de Computadoras
+Estudiante_36,Estructuras de Datos
+Estudiante_36,Teoria de Sistemas
+Estudiante_36,Algebra y Geometria Analitica
+Estudiante_37,Estructuras de Datos
+Estudiante_37,Lenguajes de Programacion
+Estudiante_37,Sistemas Operativos
+Estudiante_38,Automatas y Lenguajes Formales
+Estudiante_38,Organizacion de Computadoras
+Estudiante_38,Ingles Tecnico
+Estudiante_38,Probabilidad y Estadistica
+Estudiante_39,Analisis Matematico II
+Estudiante_39,Lenguajes de Programacion
+Estudiante_39,Ingles Tecnico
+Estudiante_40,Analisis Matematico II
+Estudiante_40,Organizacion de Computadoras
+Estudiante_40,Algebra y Geometria Analitica
+Estudiante_40,Sistemas Operativos
